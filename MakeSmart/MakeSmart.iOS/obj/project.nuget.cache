@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjGl6qVNjGul/YT20KD/kxUQ3XxfLWiNoMbbnb7HX/bXgk1/euXcGz47NV+yw2tnfoj+8FwYS8k0PoXXuHwWIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tonny.velazquez\\source\\repos\\MakeSmart\\MakeSmart\\MakeSmart.iOS\\MakeSmart.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\plugin.facebookclient\\4.0.1\\plugin.facebookclient.4.0.1.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\xamarin.facebook.corekit.ios\\9.0.1.5\\xamarin.facebook.corekit.ios.9.0.1.5.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\xamarin.facebook.gamingserviceskit.ios\\9.0.1.5\\xamarin.facebook.gamingserviceskit.ios.9.0.1.5.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\xamarin.facebook.ios\\9.0.1.5\\xamarin.facebook.ios.9.0.1.5.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\xamarin.facebook.loginkit.ios\\9.0.1.5\\xamarin.facebook.loginkit.ios.9.0.1.5.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\xamarin.facebook.sharekit.ios\\9.0.1.5\\xamarin.facebook.sharekit.ios.9.0.1.5.nupkg.sha512",
+    "C:\\Users\\tonny.velazquez\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}
